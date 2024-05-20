@@ -1,4 +1,4 @@
 # Content-Quality-Testing-Resources
-## Resources for Content Quality Assessment (CQA)
+## Content Quality Assessment (CQA)
 
-## Resources for Content Quality Moderation (CQM)
+## Content Quality Moderation (CQM)
