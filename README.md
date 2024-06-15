@@ -78,13 +78,13 @@ IEEE Transactions on Image Processing, 2021.
 *Z Tu, X Yu, Y Wang, N Birkbeck, B Adsumilli, et al.*<br>
 ArXiv, 2021.
 
-**VMAF - Video Multi-Method Assessment Fusion**<br>
+**VMAF - Video Multi-Method Assessment Fusion.**<br>
 [[Github](https://github.com/Netflix/vmaf)]
 
-**DVQA - Deep learning-based Video Quality Assessment**<br>
+**DVQA - Deep learning-based Video Quality Assessment.**<br>
 [[Github](https://github.com/Tencent/DVQA)]
 
-**QoS Test Framework**<br>
+**QoS Test Framework.**<br>
 [[Github](https://github.com/open-webrtc-toolkit/QoSTestFramework)]
 
 ## Content Quality Moderation (CQM)
