@@ -176,7 +176,7 @@ ICASSP, 2020. [[PDF](https://ieeexplore.ieee.org/document/9053990)]
 
 [[Github](https://github.com/TZ-Physics/MMBDA/tree/master/12Applications/02SecuPriv/01RiskControl/IPP)]
 
-###  and Exaggeration Detection (FED)
+### Exaggeration Detection (FED)
 
 #### Counterfeits
 
